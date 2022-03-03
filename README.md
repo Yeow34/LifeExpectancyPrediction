@@ -3,3 +3,4 @@ In this project, the aim was to predict life expectancy based on various factors
 
 For the dataset, feel free to download from here: https://www.kaggle.com/mrinath/starter-life-expectancy-who-9536c272-3/data
 
+The method applied in this project was the multiple linear regression. 
