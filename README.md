@@ -7,4 +7,5 @@ The method applied in this project was the multiple linear regression. It was kn
 
 # Reference
 Sucky, R., N. (2020). Multivariate Linear Regression in Python Step by Step. Towards Data Science. Retrieved from https://towardsdatascience.com/multivariate-linear-regression-in-python-step-by-step-128c2b127171
+
 Mishra, S. (2019). Implementing and Visualizing Linear Regression in Python with SciKit Learn. Towards Data Science. Retrieved from https://becominghuman.ai/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688
